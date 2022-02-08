@@ -1,1 +1,2 @@
 New line via VScode editor
+New line in GitHub
