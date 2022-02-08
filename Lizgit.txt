@@ -1,1 +1,2 @@
 New line via VScode editor
+New 2nd line via VScode
